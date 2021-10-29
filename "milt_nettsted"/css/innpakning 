@@ -1,0 +1,32 @@
+.innpakning {
+width: 800px;
+background-color: #404040;
+margin: auto;
+display: flex;
+flex-direction: row;
+flex-wrap:wrap; /*Bestemmer hvordan innholdet orienterer seg vannrett, dvs vi kan bryte rader*/
+}.topptekst{
+flex-basis: 100%; /*Fyller bredden i innpakningen helt*/
+height: 120px;
+background-color: #909090;
+padding: 5px;
+margin: 5px;
+order: 1;
+}.meny{
+flex-basis: 200px; /*Bredden på "boksen"*/
+background-color: #329632;
+padding: 5px;
+margin: 5px;
+order: 2;
+}.innhold{
+background-color: #909090;
+flex: 1; /*Bruker tilgjengelig bredde*/
+order: 3;
+padding: 5px;
+margin: 5px;
+}.bunntekst{
+flex-basis: 100%/
+order: 4;
+background-color: #329632;
+padding: 50
+} 

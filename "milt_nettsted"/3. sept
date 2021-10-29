@@ -1,0 +1,17 @@
+  <!doctype html>
+    <html>
+    <head>
+      <meta charest="UTF-8">
+        <title>eksempel på bruk av div  </title>
+          <link rel="stylesheet" href="css/stilark.css">
+
+</head>
+    <body>
+    <h1>eksempler på bruk av div-tag </h1>
+      <div class="venstre">       </div>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a sapien maximus, interdum nulla sed, consequat magna. Nulla dapibus magna vel dolor dapibus tempus. Phasellus eu ullamcorper lorem, non malesuada enim. Quisque a pretium diam, id convallis lectus. Fusce venenatis massa nec est tempus ultricies. Nullam est ipsum, fermentum nec metus vel, blandit mollis arcu. Morbi rhoncus nisi in dolor porta venenatis. Pellentesque molestie gravida lacus, ac luctus mi venenatis eu. Vivamus nec facilisis felis, sed cursus turpis. Vivamus ex mauris, vulputate sit amet purus vel, imperdiet suscipit neque. Ut auctor velit vel ex interdum malesuada. Etiam porttitor varius metus ut semper. Aliquam libero mauris, ornare vitae auctor quis, sodales at leo. In id ipsum vulputate, mattis odio vel, ultrices ante. Curabitur luctus, justo eget posuere tincidunt, erat mauris mattis massa, vel cursus lectus odio ut ipsum. Aliquam non egestas felis.
+<div class="venstre">       </div>
+Mauris hendrerit tristique lorem, quis condimentum mauris consequat ac. Cras placerat purus et nulla porttitor malesuada. Aliquam id ligula volutpat, consectetur arcu in, venenatis ligula. Vestibulum luctus finibus imperdiet. Praesent tempor, nulla eget tempor tincidunt, orci dolor feugiat lorem, sit amet scelerisque augue ligula eget arcu. Donec neque massa, ullamcorper feugiat purus quis, tincidunt dapibus arcu. Phasellus id convallis nisi. Integer lacinia turpis ut massa posuere, sed placerat diam egestas.
+
+    </body>
+      </html>

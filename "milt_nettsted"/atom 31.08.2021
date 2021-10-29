@@ -1,0 +1,18 @@
+  <!doctype html>
+    <html>
+      <head>
+      <title>eksempel på eksterne stilark </title>
+        <meta charset="UTF-8">
+          <link rel=stylesheet" href="css/stilark.css">
+
+
+      </head>
+        <body>
+        <h1>eksempel på css fra stilark <h1>
+
+
+
+
+
+          </body>
+            </html>

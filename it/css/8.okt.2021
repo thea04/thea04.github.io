@@ -1,0 +1,17 @@
+<!doctype html>
+  <html>
+    <head>
+      <title>slideshow  </title>
+        <meta charset="UTF-8">
+          <link rel="stylesheet" href="../css/Galleri.css">
+              </head>
+                <body>
+                <dive class="header">
+                <h1> </h1>
+                <p>Galleri er respontiv og vil tilpasses ulike skjermbredder og skjermstørrelser. </p>
+                  </dive>
+img {
+  width: 200px;
+  height:300px
+  object-fit:fille;
+  }
